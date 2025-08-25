@@ -1,4 +1,4 @@
-# LearnSmart — Static Website
+# StudyBuddy
 
 This is a lightweight static website for your Personalized Educational Content Platform.
 
